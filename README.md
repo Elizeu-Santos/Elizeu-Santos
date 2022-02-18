@@ -1,4 +1,4 @@
-### Hi, I'm Elizeu Santos 🙋‍♂️
+### Hi I'm Elizeu Santos 🙋‍♂️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elizeusantoss/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elyzeu.tec@gmail.com)
@@ -6,7 +6,7 @@
 
 ![Elizeu Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=Elizeu-Santos&show_icons=true&theme=dracula)
 
-## Technologies I use in my day
+## Technologies that I use in my day
 
 <div style="display: inline_block"><br/> 
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
