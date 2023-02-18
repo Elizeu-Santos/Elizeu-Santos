@@ -1,6 +1,5 @@
 ### Hello I'm Elizeu Santos 🦸🏾‍♂️
 
-- 👨🏾‍💻 Today I work with Information Technology
 - 📚 Studying Systems Analysis and Development
 
 <div>
