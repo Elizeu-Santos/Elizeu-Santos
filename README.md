@@ -10,7 +10,7 @@ Olá, meu nome é Elizeu Santos e sou estudante de Análise e Desenvolvimento de
 - AngularJS
 - SQL Server
 - Git
-- HTML e CSS
+- RabbitMQ
 
 Estou sempre em busca de novos desafios e buscando aprimorar meus conhecimentos para me tornar um profissional qualificado no desenvolvimento de software. Sou entusiasta de tecnologia e acredito que as melhores soluções surgem através de um trabalho colaborativo e de uma abordagem orientada para o cliente.
 
