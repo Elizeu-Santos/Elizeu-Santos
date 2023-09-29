@@ -1,6 +1,6 @@
 # Perfil
 
-Olá, meu nome é Elizeu Santos e sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente estou trabalhando como estagiário na Intell Tech, onde tenho contato com as seguintes tecnologias:
+Olá, meu nome é Elizeu Santos e sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente estou trabalhando como Desenvolvedor JR na Intell Tech, onde tenho contato com as seguintes tecnologias:
 
 - C#
 - .NET
@@ -27,7 +27,7 @@ Estou sempre em busca de novos desafios e buscando aprimorar meus conhecimentos 
 
 ## Experiência
 
-- Estagiário de desenvolvimento de software na Intell Tech (atual)
+- Desenvolvedor JR na Intell Tech (atual)
 
 ## Contato
 
