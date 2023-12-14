@@ -31,5 +31,5 @@ Estou sempre em busca de novos desafios e buscando aprimorar meus conhecimentos 
 
 ## Contato
 
-- E-mail: Elyzeu.tec@gmail.com
+- E-mail: elizeu.santos.dev@hotmail.com
 - LinkedIn: https://www.linkedin.com/in/elizeusantoss/
