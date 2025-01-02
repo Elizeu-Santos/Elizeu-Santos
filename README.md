@@ -1,35 +1,41 @@
-# Perfil
+# Elizeu Santos - Desenvolvedor Front-End
 
-Olá, meu nome é Elizeu Santos e sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente estou trabalhando como Desenvolvedor JR na Intell Tech, onde tenho contato com as seguintes tecnologias:
+Sou **Elizeu Santos**, **Desenvolvedor de Sistemas** com experiência em criação de interfaces modernas e responsivas para web e mobile. Atualmente, trabalho na **Intell Tech**, onde contribuo com soluções tecnológicas utilizando tecnologias como React, React Native e AngularJS.
 
-- C#
-- .NET
-- TypeScript
-- JavaScript
-- ReactJS
-- AngularJS
-- SQL Server
-- Git
-- RabbitMQ
+Tenho paixão por transformar ideias em experiências digitais funcionais e atraentes, sempre focado em entregar valor ao usuário final.
 
-Estou sempre em busca de novos desafios e buscando aprimorar meus conhecimentos para me tornar um profissional qualificado no desenvolvimento de software. Sou entusiasta de tecnologia e acredito que as melhores soluções surgem através de um trabalho colaborativo e de uma abordagem orientada para o cliente.
+---
 
-## Habilidades
+## 🚀 Tecnologias e Ferramentas
 
-- Desenvolvimento em C# e .NET
-- Desenvolvimento front-end em ReactJS e AngularJS
-- Banco de dados SQL Server
-- Controle de versão com Git
+- **Linguagens:** TypeScript, JavaScript  
+- **Frameworks e Bibliotecas:** ReactJS, React Native, AngularJS, Fluent UI
+- **Versionamento:** Git  
+- **Outras Skills:** Integração com APIs e otimização de desempenho front-end  
 
-## Formação
+---
 
-- Análise e Desenvolvimento de Sistemas - Instituto Federal do Paraná (em andamento)
+## 🎯 Objetivos Profissionais
 
-## Experiência
+Meu foco é:
+- Desenvolver aplicações web e mobile que sejam escaláveis, performáticas e amigáveis ao usuário.  
+- Incorporar práticas modernas e tecnologias inovadoras para solucionar desafios.  
+- Trabalhar em equipes colaborativas, entregando resultados que gerem impacto.
 
-- Desenvolvedor JR na Intell Tech (atual)
+---
 
-## Contato
+## 🎓 Formação Acadêmica
 
-- E-mail: elizeu.santos.dev@hotmail.com
-- LinkedIn: https://www.linkedin.com/in/elizeusantoss/
+- **Análise e Desenvolvimento de Sistemas**  
+  Instituto Federal do Paraná *(em andamento)*  
+
+---
+
+## 📬 Contato
+
+- **E-mail:** [elizeu.santos.dev@hotmail.com](mailto:elizeu.santos.dev@hotmail.com)  
+- **LinkedIn:** [linkedin.com/in/elizeusantoss](https://www.linkedin.com/in/elizeusantoss)  
+
+---
+
+**“Acredito que a tecnologia é uma ferramenta poderosa para transformar negócios e experiências. Sempre busco entregar soluções que façam a diferença!”**
