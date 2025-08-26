@@ -1,41 +1,51 @@
-# Elizeu Santos - Desenvolvedor Front-End
+<h1 align="center">Elizeu Santos - Front-End Developer</h1>
 
-Sou **Elizeu Santos**, **Desenvolvedor de Sistemas** com experiência em criação de interfaces modernas e responsivas para web e mobile. Atualmente, trabalho na **Intell Tech**, onde contribuo com soluções tecnológicas utilizando tecnologias como React, React Native e AngularJS.
+<p align="center">
+  I’m <strong>Elizeu Santos</strong>, a <strong>Front-End Developer</strong> with solid experience in building modern, responsive, and user-focused interfaces for both <strong>web</strong> and <strong>mobile</strong> applications.
+</p>
 
-Tenho paixão por transformar ideias em experiências digitais funcionais e atraentes, sempre focado em entregar valor ao usuário final.
-
----
-
-## 🚀 Tecnologias e Ferramentas
-
-- **Linguagens:** TypeScript, JavaScript  
-- **Frameworks e Bibliotecas:** ReactJS, React Native, AngularJS, Fluent UI
-- **Versionamento:** Git  
-- **Outras Skills:** Integração com APIs e otimização de desempenho front-end  
+<p align="center">
+  I work with technologies such as:<br>
+  <strong>| ReactJS | React Native | TypeScript | JavaScript | AngularJS |</strong>
+</p>
 
 ---
 
-## 🎯 Objetivos Profissionais
-
-Meu foco é:
-- Desenvolver aplicações web e mobile que sejam escaláveis, performáticas e amigáveis ao usuário.  
-- Incorporar práticas modernas e tecnologias inovadoras para solucionar desafios.  
-- Trabalhar em equipes colaborativas, entregando resultados que gerem impacto.
-
----
-
-## 🎓 Formação Acadêmica
-
-- **Análise e Desenvolvimento de Sistemas**  
-  Instituto Federal do Paraná *(em andamento)*  
+<h2>🚀 Technologies & Tools</h2>
+<ul>
+  <li><strong>Languages:</strong> JavaScript, TypeScript</li>
+  <li><strong>Frameworks & Libraries:</strong> ReactJS, React Native, AngularJS, Fluent UI</li>
+  <li><strong>Version Control:</strong> Git & GitHub</li>
+  <li><strong>Additional Skills:</strong> API integration, front-end performance optimization, clean code practices</li>
+</ul>
 
 ---
 
-## 📬 Contato
-
-- **E-mail:** [elizeu.santos.dev@hotmail.com](mailto:elizeu.santos.dev@hotmail.com)  
-- **LinkedIn:** [linkedin.com/in/elizeusantoss](https://www.linkedin.com/in/elizeusantoss)  
+<h2>🎯 Career Goals</h2>
+<ul>
+  <li>Build <strong>scalable, high-performance, and user-friendly</strong> web and mobile applications.</li>
+  <li>Apply <strong>modern best practices</strong> and adopt innovative technologies to tackle complex challenges.</li>
+  <li>Collaborate with multidisciplinary teams to deliver solutions that create a <strong>real impact</strong> for users and businesses.</li>
+</ul>
 
 ---
 
-**“Acredito que a tecnologia é uma ferramenta poderosa para transformar negócios e experiências. Sempre busco entregar soluções que façam a diferença!”**
+<h2>🎓 Education</h2>
+<ul>
+  <li><strong>Systems Analysis and Development</strong> – Federal Institute of Paraná</li>
+  <li><strong>Full-Stack Web Development</strong> – Ironhack</li>
+</ul>
+
+---
+
+<h2>📬 Contact</h2>
+<ul>
+  <li><strong>Email:</strong> <a href="mailto:elizeu.santos.dev@hotmail.com">elizeu.santos.dev@hotmail.com</a></li>
+  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/elizeusantoss" target="_blank">linkedin.com/in/elizeusantoss</a></li>
+</ul>
+
+---
+
+<blockquote align="center">
+  <em>“I believe technology is a bridge between ideas and real solutions. My goal is to create digital experiences that positively impact people’s lives.”</em>
+</blockquote>
