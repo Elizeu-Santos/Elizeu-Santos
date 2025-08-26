@@ -1,12 +1,18 @@
-<h1 align="center">Elizeu Santos - Front-End Developer</h1>
+<!-- Header com efeito de digitação -->
+<h1 align="center">Hello, i'm Elizeu Santos</h1>
+<h3 align="center">Front-end Developer</h3>
 
 <p align="center">
-  I’m <strong>Elizeu Santos</strong>, a <strong>Front-End Developer</strong> with solid experience in building modern, responsive, and user-focused interfaces for both <strong>web</strong> and <strong>mobile</strong> applications.
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=4cafef&center=true&vCenter=true&width=600&lines=Front-End+Developer;React+%7C+React+Native;JavaScript+%7C+TypeScript;AngularJS+Enthusiast;Clean+Code+Advocate" alt="Typing SVG" />
 </p>
 
+<!-- Badges das tecnologias -->
 <p align="center">
-  I work with technologies such as:<br>
-  <strong>| ReactJS | React Native | TypeScript | JavaScript | AngularJS |</strong>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/AngularJS-DD0031?style=for-the-badge&logo=angularjs&logoColor=white" />
 </p>
 
 ---
