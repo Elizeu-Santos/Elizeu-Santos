@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hello, I'm Elizeu Santos 👋</h1>
+<h1 align="center">Hello, I'm Elizeu Santos </h1>
 <h3 align="center">Full Stack Software Engineer</h3>
 
 <p align="center">
