@@ -86,8 +86,8 @@ maintainable architecture, and real business impact.
 <h2>🎓 Education</h2>
 
 <ul>
-  <li><strong>Systems Analysis and Development</strong> – Federal Institute of Paraná (IFPR)</li>
-  <li><strong>Full Stack Web Development</strong> – Ironhack</li>
+  <li><strong>Systems Analysis and Development</strong> – Federal Institute of Paraná (Foz do Iguaçu)</li>
+  <li><strong>Full Stack Web Development</strong> – Ironhack (São Paulo)</li>
 </ul>
 
 ---
